@@ -1,0 +1,8 @@
+  29.11.2020 16:03:32: Komposition 'Galaxy 2' gestartet.
+
+  Speichern unter: C:\Users\ImVox\Downloads\Galaxy 2.mov      Rendern vom Benutzer gestoppt.    29.11.2020 16:04:04: Komposition 'Galaxy 2' beendet.
+
+
+  Bish. Renderz.: 28 Sekunden
+Das Protokoll wurde am 29.11.2020 um 16:04:04 geschlossen.
+
