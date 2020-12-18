@@ -5,3 +5,7 @@
 - Adjust framerate of certain scenes
   - Scene(s): Deepsea
   - Object(s):
+
+- Add smooth transition
+  - Scene(s): Galaxy
+  - Object(s): Asteroid
